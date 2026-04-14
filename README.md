@@ -6,7 +6,7 @@ This document covers the Active Directory home lab built following the
 East Charmer YouTube series. The goal was to simulate a basic company 
 network by setting up a Windows Server, configuring Active Directory, 
 applying Group Policies, and connecting a client computer to the domain. 
-The lab was built using VMware Workstation Pro, Windows Server 2025 as 
+The lab was built using VMware Workstation Pro, Windows Server 2022 as 
 the server, and Windows 11 Pro as the client machine.
 
 Based on the East Charmer YouTube Series-(https://www.youtube.com/playlist?list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ)
@@ -15,7 +15,7 @@ Based on the East Charmer YouTube Series-(https://www.youtube.com/playlist?list=
 
 ## Tools Used
 - VMware Workstation Pro
-- Windows Server 2025
+- Windows Server 2022
 - Windows 11 Pro
 
 ---
@@ -23,7 +23,7 @@ Based on the East Charmer YouTube Series-(https://www.youtube.com/playlist?list=
 ## Steps Completed
 
 ### 1. Setting Up the Windows Server Virtual Machine
-Windows Server 2025 was installed inside a virtual machine on VMware 
+Windows Server 2022 was installed inside a virtual machine on VMware 
 Workstation Pro. Before anything else, the server was given a proper 
 name so it would be easily identified on the network. Windows Updates 
 were then run and fully completed before moving on, since updates require 
