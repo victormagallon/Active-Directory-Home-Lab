@@ -1,5 +1,5 @@
 
-# Active Directory Home Lab
+# Windows Active Directory Home Lab
 
 ## Overview
 This document covers the Active Directory home lab built following the 
